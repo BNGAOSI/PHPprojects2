@@ -60,11 +60,6 @@ $many_2 = 2.111200;
 $few = $many + $many_2;
 print("$many + $many_2 = $few<br>");
 
-if (true)
-  print"This will always print<rb>";
-
-else (false)
-  print"This will always print<rb>";
 
 ?>
 </body>
